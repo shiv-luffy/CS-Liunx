@@ -1,0 +1,9 @@
+SampleID	Group	Replicate
+1A.Healthy_controls	Control	Rep1
+1B.Healthy_controls	Control	Rep2
+2A.IFRNS	IFRNS	Rep1
+2B.IFRNS	IFRNS	Rep2
+3A.FRNS_SDNS	FRNS_SDNS	Rep1
+3B.FRNS_SDNS	FRNS_SDNS	Rep2
+4A.SRNS	SRNS	Rep1
+4B.SRNS	SRNS	Rep2
